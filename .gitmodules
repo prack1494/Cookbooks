@@ -4,3 +4,6 @@
 [submodule "sub2"]
 	path = sub2
 	url = ssh://github.com/prack1494/sub2.git
+[submodule "sub3"]
+	path = sub3
+	url = https://github.com/prack1494/sub3.git
